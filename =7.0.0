@@ -1,0 +1,2 @@
+Requirement already satisfied: pyarrow in /opt/anaconda3/envs/surp/lib/python3.8/site-packages (17.0.0)
+Requirement already satisfied: numpy>=1.16.6 in /opt/anaconda3/envs/surp/lib/python3.8/site-packages (from pyarrow) (1.23.0)
